@@ -1,3 +1,5 @@
+package pilaresPOO;
+
 public class Carro extends Veiculo {
 
     public void ligar() {
@@ -13,5 +15,4 @@ public class Carro extends Veiculo {
     private void confereCambio() {
         System.out.println("Conferindo câmbio em P...");
     }
-
 }

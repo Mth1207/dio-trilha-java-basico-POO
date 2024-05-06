@@ -1,3 +1,5 @@
+package pilaresPOO;
+
 public class Moto extends Veiculo {
 
     @Override
